@@ -10,9 +10,9 @@
         <h1>Hello from SathyaTech</h1>
         <h1>Hello from SathyaTech</h1>
         <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
+        <h1>LOVING THE NEW CODE CHANGES USING MAVEN</h1>
 
-<table width="50%" bgcolor="pink" align="center" border="2">
+<table width="50%" bgcolor="purple" align="center" border="5">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
